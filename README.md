@@ -16,15 +16,15 @@ Using Terraform, create azure resources for new linux virtual machines.
  
 ## 2. Automation Test
 
-# Initialize Terraform: 
+i. Initialize Terraform: 
 
  terraform init
  
-# Run the Terraform plan to validate resources
+ii. Run the Terraform plan to validate resources
 
  terraform plan
 
-# Create infrastructure/resources in Azure 
+iii. Create infrastructure/resources in Azure 
 
  terraform apply
 
