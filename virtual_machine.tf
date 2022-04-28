@@ -1,1 +1,0 @@
-# Create the resource group, network interfaces and storage account to be attached to the virtual machines 
