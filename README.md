@@ -9,7 +9,7 @@ The following folder structure is followed:
  
 ## 1. Infrastructure Test
  
-Using Terraform, create azure resources for new linux virtual machines. 
+Using Terraform, create azure resources and virtual machine
 
 ![image](https://user-images.githubusercontent.com/28523810/165737050-9b4d64b3-7320-4ee3-91ce-5b641a4e740f.png)
 
