@@ -1,8 +1,5 @@
 # CPE-Technical-Assessment
- 
-This test to access ability to implement modern automated infrastructure, as well as best
-practices around IaC, CI/CD, and coding. 
- 
+  
 The following folder structure is followed:
 
 ./
@@ -18,5 +15,16 @@ Using Terraform, create azure resources for new linux virtual machines.
 
  
 ## 2. Automation Test
- 
+
+# Initialize Terraform: 
+
+ terraform init
+ 
+# Run the Terraform plan to validate resources
+
+ terraform plan
+
+# Create infrastructure/resources in Azure 
+
+ terraform apply
 
